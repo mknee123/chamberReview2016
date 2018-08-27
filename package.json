@@ -1,0 +1,38 @@
+{
+  "name": "chamberreview2016",
+  "version": "1.0.0",
+  "description": "greater pittsburgh chamber year in review 2016",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mknee123/chamberReview2016.git"
+  },
+  "keywords": [
+    "greater",
+    "pittsburgh",
+    "chamber",
+    "year",
+    "in",
+    "review"
+  ],
+  "author": "miranda knee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mknee123/chamberReview2016/issues"
+  },
+  "homepage": "https://github.com/mknee123/chamberReview2016#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1",
+    "jshint": "^2.9.6"
+  },
+  "dependencies": {
+    "gulp-minify-css": "^1.2.4"
+  }
+}
