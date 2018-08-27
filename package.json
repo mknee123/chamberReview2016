@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/mknee123/chamberReview2016#readme",
   "devDependencies": {
+    "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.1.0",
