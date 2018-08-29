@@ -76,7 +76,7 @@ gulp.task('scripts', function() {
  */
 gulp.task('images', function() {
     gulp.src([
-            'dev/img/**/*'
+            'dev/img/*'
         ])
         .pipe(gulp.dest('assets/img'));
 });
